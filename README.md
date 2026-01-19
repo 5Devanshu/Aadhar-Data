@@ -116,14 +116,6 @@ aadhaar-analysis/
 │   ├── api_data_aadhar_enrolment_*.csv
 │   ├── api_data_aadhar_demographic_*.csv
 │   └── api_data_aadhar_biometric_*.csv
-│
-├── outputs/                         # Generated outputs
-│   ├── figures/                     # Visualization plots
-│   └── processed_data/              # Cleaned datasets
-│
-└── docs/                            # Documentation
-    ├── analysis_report.pdf
-    └── methodology.md
 ```
 
 ## Analysis Pipeline
