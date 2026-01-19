@@ -352,31 +352,9 @@ Each cell has a markdown description in first-person explaining the purpose and 
 - [ ] Automated reporting pipeline
 - [ ] Real-time data integration
 
-## Contributing
 
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see LICENSE file for details.
-
-## Contact
-
-For questions or collaboration:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
-## Acknowledgments
-
-- Aadhaar data providers
-- Open-source community for pandas, scikit-learn, and visualization libraries
-- Contributors and reviewers
 
 ---
 
